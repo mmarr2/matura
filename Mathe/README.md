@@ -1,5 +1,6 @@
 # Mathe 
 
+[Maxima Cheatsheet](Maxima.md)
 ## 3. Jahrgang
 
 [Integral und Differentialrechnung](SEM06/S06D.pdf)
