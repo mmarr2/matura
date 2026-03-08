@@ -1,5 +1,7 @@
 # Deutsch
 
+[Beispiele](Beispiele)
+
 ## Textsorten
 
 [Erörterung](Eroerterung.md)
