@@ -19,3 +19,5 @@
 ## Anderes
 
 [Rhetorische Stilmittel](RhetorischeStilmittel.md)
+
+[Fachbegriffe](Fachbegriffe.md)
