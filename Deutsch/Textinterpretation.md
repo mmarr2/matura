@@ -24,3 +24,20 @@ Je nach Aufgabenstellung:
 
 ### 3. Schluss
 * Zusammenfassung der Interpretationsergebnisse
+
+## Analyse 
+### Formanalyse
+
+* Textaufbau
+* Anzahl der Absätze
+* Zwischenüberschriften
+
+### Sprachanalyse
+
+* Rhetorische Mittel
+* Satzbau
+* Sprachebene (Fachsprache, Umgangssprache, etc...)
+* Wortfelder
+* Funktion
+* Reimschemata
+* Versmaß

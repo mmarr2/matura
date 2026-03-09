@@ -44,5 +44,4 @@
 * Sprachebene (Fachsprache, Umgangssprache, etc...)
 * Wortfelder
 * Funktion
-* Reimschemata
-* Versmaß
+
